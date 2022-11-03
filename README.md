@@ -40,3 +40,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/MochizukiShigure/JAVA_Notes_and_Tips">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=JAVA_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=MochizukiShigure&theme=xcode" /> </div>
