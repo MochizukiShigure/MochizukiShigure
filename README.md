@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [Add dynamically generated GitHub Stat Trophies on your readme]
 (https://github.com/ryo-ma/github-profile-trophy/) -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh&no-frame=true&no-bg=true" /></div>
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- profile-3d-contrib -->
