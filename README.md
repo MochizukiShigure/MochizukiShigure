@@ -29,8 +29,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://github.com/MochizukiShigure/MochizukiShigure/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
