@@ -16,5 +16,3 @@ You can click the Preview link to take a look at your changes.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh)
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/MochizukiShigure/MochizukiShigure/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
