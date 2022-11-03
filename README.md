@@ -9,3 +9,5 @@ MochizukiShigure/MochizukiShigure is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MochizukiShigure&theme=dark)](https://git.io/streak-stats)
