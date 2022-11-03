@@ -5,6 +5,14 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 
+<!-- repositories -->
+<div align="center">
+<a href="https://github.com/MochizukiShigure/C_Notes_and_Tips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=C_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/MochizukiShigure/JAVA_Notes_and_Tips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=JAVA_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
 
 <!---
 MochizukiShigure/MochizukiShigure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,14 +40,6 @@ You can click the Preview link to take a look at your changes.
 
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://github.com/MochizukiShigure/MochizukiShigure/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/MochizukiShigure/C_Notes_and_Tips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=C_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/MochizukiShigure/JAVA_Notes_and_Tips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=JAVA_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
 
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=MochizukiShigure&theme=xcode" /> </div>
