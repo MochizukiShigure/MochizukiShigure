@@ -17,13 +17,16 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 
+
 | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MochizukiShigure' GitHub Stats" /></a> | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact" /></a> |
 | ------------- | ------------- |
+
 
 <!-- [Add dynamically generated GitHub Stat Trophies on your readme]
 (https://github.com/ryo-ma/github-profile-trophy/) -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
+
 
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://github.com/MochizukiShigure/MochizukiShigure/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
