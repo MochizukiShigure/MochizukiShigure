@@ -14,5 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh)
+<div align="center"><img  src=https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh /></div>
+<br>
 
