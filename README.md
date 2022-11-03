@@ -20,13 +20,6 @@ You can click the Preview link to take a look at your changes.
 | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MochizukiShigure' GitHub Stats" /></a> | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact" /></a> |
 | ------------- | ------------- |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact)
-
-
-
-
 <!-- [Add dynamically generated GitHub Stat Trophies on your readme]
 (https://github.com/ryo-ma/github-profile-trophy/) -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=MochizukiShigure&theme=juicyfresh&no-frame=true&no-bg=true" /></div>
