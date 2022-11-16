@@ -1,4 +1,5 @@
 <h1 align="center"> 💖 Welcome </h1>
+# Introduction
 
 - 👋 Hi, I’m @MochizukiShigure （望月 時雨）
 - 👀 I’m interested in Artificial Intelligence
@@ -6,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!-- repositories -->
+<!-- pin repositories -->
 <div align="center">
 <a href="https://github.com/MochizukiShigure/C_Notes_and_Tips">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=C_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
