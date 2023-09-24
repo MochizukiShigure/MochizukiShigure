@@ -43,4 +43,3 @@ You can click the Preview link to take a look at your changes.
 <div align="center" ><img src="https://github.com/MochizukiShigure/MochizukiShigure/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=MochizukiShigure&theme=xcode" /> </div>
