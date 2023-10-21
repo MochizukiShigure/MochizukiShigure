@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/MochizukiShigure/fundamental">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=fundamental&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/MochizukiShigure/MochizukiShigure.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=MochizukiShigure.github.io&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=MochizukiShigure.github.o&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 
