@@ -8,13 +8,6 @@
 - 📫 How to reach me ...
 
 
-<!-- pin repositories -->
-<div align="center">
-<a href="https://github.com/MochizukiShigure/MUST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=MUST&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/MochizukiShigure/JAVA_Notes_and_Tips">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=JAVA_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
 
 <!---
 MochizukiShigure/MochizukiShigure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +21,16 @@ You can click the Preview link to take a look at your changes.
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
+
+<!-- pin repositories -->
+<div align="center">
+<a href="https://github.com/MochizukiShigure/MUST">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=MUST&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/MochizukiShigure/JAVA_Notes_and_Tips">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MochizukiShigure&repo=JAVA_Notes_and_Tips&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
+
 
 | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="MochizukiShigure' GitHub Stats" /></a> | <a href="https://github.com/MochizukiShigure/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochizukiShigure&bg_color=30,e96443,904e95&title_color=fff&text_color=fff=compact" /></a> |
 | ------------- | ------------- |
