@@ -14,13 +14,15 @@ MochizukiShigure/MochizukiShigure is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- [Display your total contributions, current streak, and longest streak on your GitHub](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+<!--
+[Display your total contributions, current streak, and longest streak on your GitHub](https://github.com/DenverCoder1/github-readme-streak-stats) 
 <div align="center">
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
 <img align="center" src="https://streak-stats.demolab.com/?user=MochizukiShigure&theme=dark" />
 <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
+-->
 
 <!-- pin repositories -->
 <div align="center">
